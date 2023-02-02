@@ -1,0 +1,14 @@
+{
+  "status":"OK",
+  "tag":"payRequest",
+  "commentAllowed":255,
+  "callback":"https://getalby.com/lnurlp/cheshire/callback",
+  "metadata":"[[\"text/identifier\", \"cheshire@getalby.com\"], [\"text/plain\", \"Sats for cheshire\"]]",
+  "minSendable":100,"maxSendable":11000000000,
+  "payerData":
+    {
+      "name":{"mandatory":false},
+      "email":{"mandatory":false}
+    }
+}
+  
